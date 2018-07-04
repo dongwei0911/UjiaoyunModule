@@ -1,0 +1,6 @@
+framework module UjiaoyunModule {
+  umbrella header "UjiaoyunModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

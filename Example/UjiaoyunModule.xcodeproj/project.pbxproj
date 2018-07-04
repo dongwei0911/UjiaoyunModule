@@ -43,9 +43,9 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		684B13DEB1D5AE06C4BB69A0 /* Pods-UjiaoyunModule_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UjiaoyunModule_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-UjiaoyunModule_Example/Pods-UjiaoyunModule_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		744FE1CB579D9C560AA1232C /* Pods_UjiaoyunModule_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UjiaoyunModule_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		872C98D6D2ED294464997FF5 /* UjiaoyunModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = UjiaoyunModule.podspec; path = ../UjiaoyunModule.podspec; sourceTree = "<group>"; };
-		8EAC97C1805C8D33D83021C2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		99EFBF1D4D9C08C536F9528B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		872C98D6D2ED294464997FF5 /* UjiaoyunModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = UjiaoyunModule.podspec; path = ../UjiaoyunModule.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8EAC97C1805C8D33D83021C2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		99EFBF1D4D9C08C536F9528B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E6F849F881B2B7F3485D3430 /* Pods_UjiaoyunModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UjiaoyunModule_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

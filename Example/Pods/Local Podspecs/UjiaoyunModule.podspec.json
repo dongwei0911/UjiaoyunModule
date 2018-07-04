@@ -1,0 +1,22 @@
+{
+  "name": "UjiaoyunModule",
+  "version": "0.1.0",
+  "summary": "A short description of UjiaoyunModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dongwei0911/UjiaoyunModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dongwei0911": "1260997379@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/dongwei0911/UjiaoyunModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UjiaoyunModule/Classes/**/*"
+}

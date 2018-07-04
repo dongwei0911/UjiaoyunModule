@@ -1,0 +1,16 @@
+PODS:
+  - UjiaoyunModule (0.1.0)
+
+DEPENDENCIES:
+  - UjiaoyunModule (from `../`)
+
+EXTERNAL SOURCES:
+  UjiaoyunModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UjiaoyunModule: 78972f4c622747ac594f8a8ac3adf725d49bdb10
+
+PODFILE CHECKSUM: db617c7bfa69383a1d0888aaaaaefe9284ee21f4
+
+COCOAPODS: 1.5.3
