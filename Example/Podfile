@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UjiaoyunModule_Example' do
+  pod 'UjiaoyunModule', :path => '../'
+
+  target 'UjiaoyunModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
